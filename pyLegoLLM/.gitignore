@@ -1,0 +1,13 @@
+__pycache__/
+working stuff/
+sample_app_led.py 
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+venv/
+dist/
+build/
+*.egg-info/
